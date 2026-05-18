@@ -1,0 +1,7 @@
+.env
+*.session
+__pycache__/
+*.pyc
+gerar_session.py.env
+*.session
+gerar_session.py
